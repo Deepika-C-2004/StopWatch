@@ -1,0 +1,33 @@
+*{background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+p{
+    display: inline;
+    font-size: 100px;
+}
+h2{
+    margin-top: 50px;
+    color: black;
+}
+#wrapper{
+    border: 2px solid white;
+    width: 500px;
+    padding: 50px;
+    text-align: center;
+    /* margin-left: 25%; */
+    
+}
+button{
+    border: 2px solid white;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    color:black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+   color: white;
+}
